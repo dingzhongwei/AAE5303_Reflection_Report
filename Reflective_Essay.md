@@ -87,6 +87,4 @@ If the remote says access is denied to user **A** while you intend user **B**, t
 
 “Explain this traceback line by line and give three likely causes I can check in five minutes.” This reduced vague answers.
 
----
 
-*Approximate length: written to meet the course **800–1200 word** guideline; if your counter differs slightly, trim Section 7 first.*
